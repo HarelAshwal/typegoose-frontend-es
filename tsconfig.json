@@ -1,10 +1,14 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "ES2015",
+    "module": "ES2020",
     "lib": [
-      "esnext"
+      "es2015",
+      "es2016",
+      "es2017",
+      "dom"
     ],
-    "module": "commonjs",
+    "moduleResolution": "node",
     "declaration": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,

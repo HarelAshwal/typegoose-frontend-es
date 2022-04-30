@@ -1,5 +1,5 @@
 
-import { index } from '../..';
+import { index } from '../../index';
 import { Ref, arrayProp } from '../../prop';
 import { prop, Typegoose } from '../../typegoose';
 import { Car } from './car';

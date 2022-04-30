@@ -1,7 +1,7 @@
-# Typegoose-frontend
+# Typegoose-frontend-es
 
 Typegoose doesn't play well with fron-end.
-This package let you use the Typegoose for both the client AND the server!
+This package let you use the Typegoose for both the client AND the server! (packed for ES module)
 
 # Typegoose
 
